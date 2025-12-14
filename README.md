@@ -5,7 +5,7 @@ A Power BI dashboard analyzing ad metrics like ROAS and CTR.
 ## 🚀 Project Overview
 This Power BI project provides a comprehensive analysis of Meta (Facebook & Instagram) advertising campaigns. The dashboard tracks performance, identifies high-value demographics, and optimizes ad spend for maximum Return on Ad Spend (ROAS).
 
-**Live Portfolio:** [https://chinmay-achar.lovable.app/](https://chinmay-achar.lovable.app/)
+**Live Portfolio:** [https://chinmay-achar.app/](https://chinmay-achar.lovable.app/)
 
 ## 🎯 Objectives
 * **Evaluate Campaign Efficiency:** Analyze cost per result (CPR) and click-through rates (CTR) across different campaigns.
