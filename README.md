@@ -5,7 +5,7 @@ A Power BI dashboard analyzing ad metrics like ROAS and CTR.
 ## 🚀 Project Overview
 This Power BI project provides a comprehensive analysis of Meta (Facebook & Instagram) advertising campaigns. The dashboard tracks performance, identifies high-value demographics, and optimizes ad spend for maximum Return on Ad Spend (ROAS).
 
-**Live Portfolio:** [https://chinmay-achar.app/](https://chinmay-achar.lovable.app/)
+**Live Portfolio:** [Chinmay_H_R_Portfolio](https://chinmay-achar.lovable.app/)
 
 ## 🎯 Objectives
 * **Evaluate Campaign Efficiency:** Analyze cost per result (CPR) and click-through rates (CTR) across different campaigns.
@@ -14,11 +14,11 @@ This Power BI project provides a comprehensive analysis of Meta (Facebook & Inst
 * **Trend Analysis:** Monitor daily/weekly performance changes to detect ad fatigue.
 
 ## 📊 Key Insights & Findings
-* [cite_start]**Top Performing Demographics:** The **20-30** age group (especially early 20s) showed the highest engagement[cite: 36]. [cite_start]Females accounted for **43%** of engagement, outperforming males (22%)[cite: 28, 29].
-* [cite_start]**Ad Format Efficiency:** **Video ads** delivered the highest performance across CTR (11.9%), Conversion Rate (5.2%), and Engagement Rate (13.7%)[cite: 64, 65].
-* [cite_start]**Funnel Analysis:** While awareness is strong with a high **CTR of 11.76%** [cite: 11] [cite_start]and **Engagement Rate of 13.56%** [cite: 12][cite_start], the purchase rate is **0.61%**, indicating a need for landing page optimization[cite: 14].
-* [cite_start]**Geographic Trends:** High engagement volume was observed in **India, US, and Brazil**, with recommendations to focus premium campaigns in the UK/Germany for better conversion potential[cite: 44, 45].
-* [cite_start]**Peak Time:** The highest engagement rates occurred in the **late afternoon & evening (~3 PM - 8 PM)**, suggesting optimal times for scheduling ads[cite: 51].
+* **Top Performing Demographics:** The **20-30** age group (especially early 20s) showed the highest engagement[cite: 36]. [cite_start]Females accounted for **43%** of engagement, outperforming males (22%)[cite: 28, 29].
+* **Ad Format Efficiency:** **Video ads** delivered the highest performance across CTR (11.9%), Conversion Rate (5.2%), and Engagement Rate (13.7%)[cite: 64, 65].
+* **Funnel Analysis:** While awareness is strong with a high **CTR of 11.76%** [cite: 11] [cite_start]and **Engagement Rate of 13.56%** [cite: 12][cite_start], the purchase rate is **0.61%**, indicating a need for landing page optimization[cite: 14].
+* **Geographic Trends:** High engagement volume was observed in **India, US, and Brazil**, with recommendations to focus premium campaigns in the UK/Germany for better conversion potential[cite: 44, 45].
+* **Peak Time:** The highest engagement rates occurred in the **late afternoon & evening (~3 PM - 8 PM)**, suggesting optimal times for scheduling ads[cite: 51].
 
 ## 🛠️ Tools & Technologies
 * **Power BI Desktop:** For data visualization and interactive dashboarding.
@@ -31,12 +31,11 @@ This Power BI project provides a comprehensive analysis of Meta (Facebook & Inst
 ## 📂 Dataset Structure
 The analysis is based on standard Meta Ads data containing the following key dimensions and metrics:
 * **Dimensions:** Campaign Name, Ad Set Name, Date, Age, Gender, Platform (FB/IG), Placement.
-* [cite_start]**Metrics:** Amount Spent (Total: 2.5M), Impressions (216K), Clicks (25.4K), Purchases (1.3K)[cite: 6, 7, 9, 15].
+* **Metrics:** Amount Spent (Total: 2.5M), Impressions (216K), Clicks (25.4K), Purchases (1.3K)[cite: 6, 7, 9, 15].
 
 ## 📷 Dashboard Preview
 
 ### 1. **Executive Summary**
-*(Upload a screenshot of your main dashboard page here)*
 ![Executive Summary](Link_to_Your_Image_1.png)
 *High-level view of Total Spend, ROAS, and total Conversions.*
 
@@ -48,7 +47,7 @@ The analysis is based on standard Meta Ads data containing the following key dim
 ## 🚀 How to Use
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/yourusername/meta-ads-analysis.git](https://github.com/yourusername/meta-ads-analysis.git)
+    git clone [GitHub](https://github.com/yourusername/meta-ads-analysis.git)
     ```
 2.  **Open the Project:**
     * Download `Meta Ad Performance.pbix` from the files.
