@@ -1,6 +1,6 @@
-# Meta-Ads-Performance-Dashboard_Chinmay_HR
+# Meta-Ads-Performance-Dashboard_Chinmay_HR (Digital Marketing ROAS & KPI Analysis)
 A Power BI dashboard analyzing ad metrics like ROAS and CTR.
-# 📈 Facebook vs Instagram Ad Performance Analysis (Digital Marketing ROAS & KPI Analysis)
+# 📈 Facebook vs Instagram Ad Performance Analysis 
 
 ## 🚀 Project Overview
 This Power BI project provides a comprehensive analysis of Meta (Facebook & Instagram) advertising campaigns. The dashboard tracks performance, identifies high-value demographics, and optimizes ad spend for maximum Return on Ad Spend (ROAS).
