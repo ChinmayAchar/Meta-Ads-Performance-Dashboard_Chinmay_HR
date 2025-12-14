@@ -1,48 +1,65 @@
 # Meta-Ads-Performance-Dashboard_Chinmay_HR
 A Power BI dashboard analyzing ad metrics like ROAS and CTR.
-# Meta Ads Performance Analysis 📊
+# 📈 Meta (Facebook) Ad Performance Analysis
 
-## 📌 Project Overview
-This project analyzes the performance of Meta (Facebook & Instagram) ad campaigns to evaluate key metrics such as Return on Ad Spend (ROAS), Click-Through Rate (CTR), and Cost Per Click (CPC). 
+## 🚀 Project Overview
+This Power BI project provides a comprehensive analysis of Meta (Facebook & Instagram) advertising campaigns. The dashboard tracks performance, identifies high-value demographics, and optimizes ad spend for maximum Return on Ad Spend (ROAS).
 
-The goal was to identify trends in ad performance and provide actionable insights to optimize marketing budgets.
+**Live Portfolio:** [https://chinmay-achar.lovable.app/](https://chinmay-achar.lovable.app/)
 
+## 🎯 Objectives
+* **Evaluate Campaign Efficiency:** Analyze cost per result (CPR) and click-through rates (CTR) across different campaigns.
+* **Optimize Budget Allocation:** Identify underperforming ad sets to reduce wasted spend.
+* **Demographic Targeting:** Determine which Age Groups, Genders, and Locations yield the highest conversion rates.
+* **Trend Analysis:** Monitor daily/weekly performance changes to detect ad fatigue.
 
+## 📊 Key Insights & Findings
+* [cite_start]**Top Performing Demographics:** The **20-30** age group (especially early 20s) showed the highest engagement[cite: 36]. [cite_start]Females accounted for **43%** of engagement, outperforming males (22%)[cite: 28, 29].
+* [cite_start]**Ad Format Efficiency:** **Video ads** delivered the highest performance across CTR (11.9%), Conversion Rate (5.2%), and Engagement Rate (13.7%)[cite: 64, 65].
+* [cite_start]**Funnel Analysis:** While awareness is strong with a high **CTR of 11.76%** [cite: 11] [cite_start]and **Engagement Rate of 13.56%** [cite: 12][cite_start], the purchase rate is **0.61%**, indicating a need for landing page optimization[cite: 14].
+* [cite_start]**Geographic Trends:** High engagement volume was observed in **India, US, and Brazil**, with recommendations to focus premium campaigns in the UK/Germany for better conversion potential[cite: 44, 45].
+* [cite_start]**Peak Time:** The highest engagement rates occurred in the **late afternoon & evening (~3 PM - 8 PM)**, suggesting optimal times for scheduling ads[cite: 51].
 
-![Meta Ad Performance _ ](https://github.com/user-attachments/assets/634ae280-0044-4df6-a7c9-fff2de990ad5)
+## 🛠️ Tools & Technologies
+* **Power BI Desktop:** For data visualization and interactive dashboarding.
+* **Power Query:** For ETL (Extract, Transform, Load) processes, data cleaning, and standardization.
+* **DAX (Data Analysis Expressions):** Used for creating complex measures such as:
+    * `ROAS = [Total Revenue] / [Total Ad Spend]`
+    * `CTR = [Total Clicks] / [Total Impressions]`
+    * `Conversion Rate = [Total Conversions] / [Total Clicks]`
 
+## 📂 Dataset Structure
+The analysis is based on standard Meta Ads data containing the following key dimensions and metrics:
+* **Dimensions:** Campaign Name, Ad Set Name, Date, Age, Gender, Platform (FB/IG), Placement.
+* [cite_start]**Metrics:** Amount Spent (Total: 2.5M), Impressions (216K), Clicks (25.4K), Purchases (1.3K)[cite: 6, 7, 9, 15].
 
+## 📷 Dashboard Preview
 
+### 1. **Executive Summary**
+*(Upload a screenshot of your main dashboard page here)*
+![Executive Summary](Link_to_Your_Image_1.png)
+*High-level view of Total Spend, ROAS, and total Conversions.*
 
-## 🛠️ Tools Used
-* **Power BI** (Data Visualization & Dashboarding)
-* **Microsoft Excel** (Data Cleaning & Pre-processing)
-* **DAX** (For calculating Measures like CPM, CTR, and Conversion Rate)
-
-## 🔍 Key Metrics Analyzed
-* **ROAS (Return on Ad Spend):** Measured revenue generated per dollar spent.
-* **CTR (Click-Through Rate):** Analyzed ad engagement effectiveness.
-* **CPC (Cost Per Click) & CPM (Cost Per Mille):** Evaluated cost-efficiency across different ad sets.
-* **Demographics:** Breakdown of performance by age, gender, and location.
-
-## 📈 Insights & Findings
-* **Top Performing Age Group:** The [e.g., 25-34] age group showed the highest conversion rate.
-* **Cost Efficiency:** Mobile placements resulted in a [e.g., 20%] lower CPC compared to desktop.
-* **Time Trends:** Ad engagement peaked on [e.g., Weekends/Evenings], suggesting optimal times for budget increases.
-
-## 📷 Dashboard Screenshots
-### 1. Campaign Overview
-![Campaign Overview](link_to_your_image_1.png)
-
-### 2. Demographic Analysis
-![Demographics](link_to_your_image_2.png)
+### 2. **Demographic & Platform Analysis**
+*(Upload a screenshot of your demographics page here)*
+![Demographics View](Link_to_Your_Image_2.png)
+*Breakdown of performance by Age, Gender, and Device.*
 
 ## 🚀 How to Use
-1.  Download the `.pbix` file from this repository.
-2.  Open it in **Power BI Desktop**.
-3.  Interact with the filters to explore the data.
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/yourusername/meta-ads-analysis.git](https://github.com/yourusername/meta-ads-analysis.git)
+    ```
+2.  **Open the Project:**
+    * Download `Meta Ad Performance.pbix` from the files.
+    * Open it in **Microsoft Power BI Desktop**.
+3.  **Explore:** Use the slicers on the left/right panels to filter by Campaign, Date Range, or Platform.
 
 ## 👤 Author
-**[Your Name]**
-* [LinkedIn Profile Link]
-* [Email Address]
+**Chinmay Achar**
+* **Portfolio:** [chinmay-achar.lovable.app](https://chinmay-achar.lovable.app/)
+* **LinkedIn:** [linkedin.com/in/-chinmay-achar-](https://www.linkedin.com/in/-chinmay-achar-/)
+* **Email:** [acharchinmay7@gmail.com](mailto:acharchinmay7@gmail.com)
+
+---
+*This project is for educational/portfolio purposes.*
