@@ -35,14 +35,9 @@ The analysis is based on standard Meta Ads data containing the following key dim
 
 ## 📷 Dashboard Preview
 
-### 1. **Executive Summary**
-![Executive Summary](Link_to_Your_Image_1.png)
-*High-level view of Total Spend, ROAS, and total Conversions.*
+![Meta Ad Performance _ ](https://github.com/user-attachments/assets/92072f8a-f493-47f8-9351-714085be4b2a)
 
-### 2. **Demographic & Platform Analysis**
-*(Upload a screenshot of your demographics page here)*
-![Demographics View](Link_to_Your_Image_2.png)
-*Breakdown of performance by Age, Gender, and Device.*
+
 
 ## 🚀 How to Use
 1.  **Clone the Repository:**
