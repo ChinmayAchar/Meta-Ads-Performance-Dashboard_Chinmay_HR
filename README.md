@@ -42,7 +42,7 @@ The analysis is based on standard Meta Ads data containing the following key dim
 ## 🚀 How to Use
 1.  **Clone the Repository:**
     ```bash
-    git clone [GitHub]([https://github.com/yourusername/meta-ads-analysis.git](https://github.com/ChinmayAchar/Meta-Ads-Performance-Dashboard_Chinmay_HR))
+    git clone [GitHub](https://github.com/ChinmayAchar/Meta-Ads-Performance-Dashboard_Chinmay_HR))
     ```
 2.  **Open the Project:**
     * Download `Meta Ad Performance.pbix` from the files.
