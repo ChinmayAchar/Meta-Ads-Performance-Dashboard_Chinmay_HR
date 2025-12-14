@@ -3,14 +3,16 @@ A Power BI dashboard analyzing ad metrics like ROAS and CTR.
 # Meta Ads Performance Analysis 📊
 
 ## 📌 Project Overview
-This project analyzes the performance of Meta (Facebook & Instagram) ad campaigns to evaluate key metrics such as Return on Ad Spend (ROAS), Click-Through Rate (CTR), and Cost Per Click (CPC). The goal was to identify trends in ad performance and provide actionable insights to optimize marketing budgets.
+This project analyzes the performance of Meta (Facebook & Instagram) ad campaigns to evaluate key metrics such as Return on Ad Spend (ROAS), Click-Through Rate (CTR), and Cost Per Click (CPC). 
+
+The goal was to identify trends in ad performance and provide actionable insights to optimize marketing budgets.
 
 
 
 ![Meta Ad Performance _ ](https://github.com/user-attachments/assets/634ae280-0044-4df6-a7c9-fff2de990ad5)
 
 
-*(Note: Upload a screenshot of your main dashboard here and link it)*
+
 
 ## 🛠️ Tools Used
 * **Power BI** (Data Visualization & Dashboarding)
